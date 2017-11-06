@@ -1,0 +1,32 @@
+do while循环
+do{}while();
+
+
+if判断
+if(){} else if{} else
+
+
+for循环
+for(){}
+
+
+while语句
+while(){}
+
+
+switch语句
+switch(){
+case 1:
+	..
+	break;
+case 2:
+	..
+	break;
+case 3:
+	..
+	break;
+default:
+	..
+}
+
+外循环需要归零
